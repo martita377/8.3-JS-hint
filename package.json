@@ -1,0 +1,31 @@
+{
+  "name": "kodilla-zadanie_8.3",
+  "version": "1.0.0",
+  "description": "zadanie 8.3",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martita377/8.3-JS-hint.git"
+  },
+  "keywords": [
+    "zadanie",
+    "8.3"
+  ],
+  "author": "Marta P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martita377/8.3-JS-hint/issues"
+  },
+  "homepage": "https://github.com/martita377/8.3-JS-hint#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
